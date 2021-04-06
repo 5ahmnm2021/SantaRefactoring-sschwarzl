@@ -63,4 +63,4 @@ Only one level is implemented.
 * Use UI elements and manipulate UI elements with scrips
 
 
-Copyright by smeerws, refactored by MatteoEtzer
+Copyright by smeerws, refactored by Sam Schwarzl
